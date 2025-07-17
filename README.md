@@ -7,7 +7,6 @@ Welcome to the ultimate retro Rock, Paper, Scissors game — now with pixel art 
 - **Pixel art hand sprites**: Authentic retro look using free assets
 - **Bouncy animations**: Hands bounce and smash for every round
 - **Score tracking**: (Coming soon!)
-- **No image smoothing**: Crisp, sharp pixel graphics
 - **Easy to play**: Just click and go!
 
 <img width="798" height="537" alt="image" src="https://github.com/user-attachments/assets/9b128052-1dd0-494b-8405-cc6474a74807" />
